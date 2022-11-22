@@ -1,0 +1,20 @@
+body {
+  background-color: #EFF5F5;
+}
+
+hr {
+border-style: dotted none none;
+border-width: 7px;
+width: 50px;
+border-color: #D6E4E5;
+}
+
+h1 {
+  color: #497174;
+
+}
+
+h3 {
+  color: #EB6440;
+  font-family: cursive;
+}
